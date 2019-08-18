@@ -1,3 +1,6 @@
+Front-End desenvolvido em ReactJS durante a Semana OmniStack, que foi um evento online produzido pela @Rocketseat
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
